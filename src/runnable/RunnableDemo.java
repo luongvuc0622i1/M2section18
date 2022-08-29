@@ -1,4 +1,4 @@
-package Runnable;
+package runnable;
 
 public class RunnableDemo implements Runnable {
     private Thread t;
